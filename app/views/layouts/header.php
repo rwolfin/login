@@ -22,13 +22,13 @@
     <div class="container">
         <nav>
             <?php if (isset($_SESSION['user'])): ?>
-                <a href="/dashboard">Dashboard</a>
-                <a href="/protected">Protected Page</a>
-                <a href="/logout">Logout</a>
+                <a href="/dashboard">Главная</a>
+                <a href="/protected">Защищённая страница</a>
+                <a href="/logout">Выход</a>
             <?php else: ?>
-                <a href="/">Home</a>
-                <a href="/login">Login</a>
-                <a href="/register">Register</a>
+                <a href="/">Домой</a>
+                <a href="/login">Войти</a>
+                <a href="/register">Зарегистрироваться</a>
             <?php endif; ?>
         </nav>
         

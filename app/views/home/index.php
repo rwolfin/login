@@ -1,2 +1,2 @@
-<h2>Welcome to Auth System</h2>
-<p>Please login or register to access the system.</p>
+<h2>Добро пожаловать</h2>
+<p>Зарегистрируйтесь или войдите, чтобы получить доступ.</p>

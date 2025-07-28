@@ -5,11 +5,11 @@
 
 <form method="POST">
     <div class="form-group">
-        <label for="username">Username:</label>
+        <label for="username">Имя пользователя:</label>
         <input type="text" id="username" name="username" required>
     </div>
     <div class="form-group">
-        <label for="password">Password:</label>
+        <label for="password">Пароль:</label>
         <input type="password" id="password" name="password" required>
     </div>
     <button type="submit">Отправить</button>
